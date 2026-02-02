@@ -11,16 +11,16 @@
   margin: 0 0 42px 0;
 }
 
-.about-subtitle-ru,
-.about-subtitle-en {
+.about-subtitle-en,
+.about-subtitle-ru {
   font-size: 18px;
   font-weight: 500;
   margin: 0 auto 15px;
   max-width: 780px;
 }
 
-.about-description-ru,
-.about-description-en {
+.about-description-en,
+.about-description-ru {
   font-size: 18px;
   font-weight: 500;
   margin: 0 auto 15px;
@@ -28,11 +28,11 @@
   max-width: 780px;
 }
 
-.about-subtitle-en {
+.about-subtitle-ru {
   margin: 15px auto 15px;
 }
 
-.about-description-en {
+.about-description-ru {
   margin: 0 auto;
 }
 
